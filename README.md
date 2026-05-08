@@ -1,45 +1,164 @@
+# Guillermo Campos
+## Senior Software Development Manager | Cloud Architecture | AI Innovation | Engineering Leadership
 
+Strategic Engineering Leader with 20+ years of experience building and scaling high-performing engineering organizations across global technology companies including EPAM, CSG, Wizeline, DXC, HPE, and HP.
 
+I specialize in:
+- Cloud-native architectures
+- Engineering leadership
+- AI-driven software delivery
+- Large-scale modernization programs
+- Distributed systems & platform engineering
+- High-performance engineering culture
 
-# Hi there, I’m Guillermo Campos 👋
-
-I'm a passionate Software Developer Manager dedicated to building innovative, scalable, and user‐friendly solutions. With experience spanning full‑stack development and a constant drive to learn new technologies, I enjoy turning ideas into real-world applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/guillermocampos/) [![GitHub](https://img.shields.io/badge/GitHub-memocampos-informational?logo=github)](https://github.com/memocampos)
-
----
-
-## 🚀 About Me
-
-- 💻 **Full-Stack Developer:** I love working on both front‑end and back‑end challenges—from designing intuitive user interfaces to developing robust APIs.  
-- 🔍 **Problem Solver:** I enjoy exploring complex problems and creating clean, efficient, and maintainable code.  
-- 🌱 **Continuous Learner:** Whether it’s a new framework, library, or technology, I’m always up for a challenge and eager to expand my knowledge.
+Passionate about building scalable systems, enabling engineering excellence, and driving business transformation through cloud and Generative AI.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Leadership & Engineering Expertise
 
-Here are a few of the tools and technologies I’ve been working with recently:
-
-- **Languages:** Python, JavaScript, Swift, TypeScript, Java.
-- **Front‑end:** React, Vue.js, Angular, HTML, CSS.
-- **Back‑end:** Django, Flask, Node.js, Express 
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Other Tools:** Git, Docker, CI/CD.
+- Engineering Organization Scaling
+- Software Development Leadership
+- Cloud Transformation & Modernization
+- Architecture Governance
+- Platform Engineering
+- AI-Assisted Development
+- Agile / SAFe Delivery
+- Site Reliability Engineering (SRE)
+- Engineering Productivity & DORA Metrics
+- CI/CD & DevOps Automation
+- Technical Strategy & Roadmapping
+- Cross-Functional Team Leadership
+- Executive Stakeholder Management
+- Distributed Systems & Microservices
+- Operational Excellence & Reliability
 
 ---
 
-## 🤝 Let’s Connect
+## Cloud & Architecture
 
-I’m always open to discussing new projects, creative ideas, or potential collaborations. Feel free to reach out via the links below:
+### AWS
+- EC2
+- Lambda
+- API Gateway
+- ECS / EKS
+- DynamoDB
+- RDS
+- CloudWatch
+- SQS / SNS
+- Step Functions
+- IAM / KMS
+- CloudFormation
 
-- [LinkedIn](https://www.linkedin.com/in/guillermocampos/)
-- [Email](mailto:camposguillermo@hotmail.com) 
+### Cloud Platforms
+- AWS
+- Google Cloud Platform (GCP)
+- Microsoft Azure
 
-![Guillermo Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=memocampos&show_icons=true&theme=monokai  )
-<br>
+### Architecture Patterns
+- Microservices
+- Event-Driven Architecture
+- Serverless
+- High Availability & Resilience
+- Multi-Region Failover
+- CI/CD Automation
+- API-First Design
+
+---
+
+## AI & Innovation
+
+Focused on integrating Generative AI into engineering workflows and enterprise platforms.
+
+### Experience With
+- OpenAI
+- Anthropic Claude
+- Google GenAI
+- MCP (Model Context Protocol)
+- AI-assisted SDLC
+- Agentic Engineering Concepts
+- AI Workflow Automation
+
+---
+
+## Technical Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+- React
+- React Native
+
+### DevOps & Observability
+- Docker
+- Kubernetes
+- Jenkins
+- Datadog
+- Splunk
+- New Relic
+
+### Integration & Data
+- Kafka
+- RabbitMQ
+- MuleSoft
+- Snowflake
+- Databricks
+
+---
+
+## Selected Experience
+
+### Cloud Modernization & Enterprise Delivery
+- Led AEM Cloud modernization initiatives for large-scale enterprise platforms serving millions of users
+- Managed cross-functional engineering squads delivering financial integration and loyalty platforms
+- Directed migration programs involving 100+ enterprise applications using AWS cloud-native strategies
+
+### Engineering Leadership
+- Built and scaled engineering organizations across multiple global companies
+- Managed distributed teams of 50+ engineers
+- Improved delivery throughput, engineering quality, and operational reliability through modern SDLC and cloud practices
+
+### Innovation & Product Engineering
+- Created internal innovation programs driving AI adoption and workplace productivity transformation
+- Designed and developed cloud-connected POS/order management solutions from concept to implementation
+
+---
+
+## Certifications & Methodologies
+
+- PMP
+- Scrum Master Certified
+- Lean Six Sigma
+- ITIL
+- AWS Cloud Economics
+- Anthropic Claude AI Certification
+
+---
+
+## Current Focus
+
+- AI-Native Engineering Organizations
+- Agentic SDLC
+- Cloud Platform Engineering
+- Engineering Productivity
+- Resilient Distributed Systems
+- Enterprise AI Transformation
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/guillermocampos
+- Location: Guadalajara, Mexico
+- Email: camposguillermo@hotmail.com
+
+---
+
+> "Building scalable engineering organizations and resilient platforms that transform business outcomes through cloud and AI innovation."
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memocampos&layout=compact)](https://github.com/memocampos/github-readme-stats)
 Thank you for stopping by my profile. Happy coding! 🎉
-
-------------------------------------------------------------
