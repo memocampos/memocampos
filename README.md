@@ -122,6 +122,44 @@ Focused on integrating Generative AI into engineering workflows, platform engine
 
 ---
 
+# Personal Projects & Innovation
+
+Exploring ideas around AI, productivity, automation, and digital experiences through independent initiatives and experimental platforms.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 Ask Robot One
+AI assistant and experimentation platform focused on conversational AI, automation, and intelligent workflows.
+
+🔗 https://askrobot.one/
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏠 Inner House
+Innovation-focused concept platform exploring digital experiences, systems thinking, and product experimentation.
+
+🔗 https://inner.house
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Scrolling Score
+Mobile application focused on interactive score tracking and user engagement experiences.
+
+🔗 https://apps.apple.com/mx/app/scrolling-score/id6736430610
+
+</td>
+</tr>
+</table>
+
+---
+
+
 # Current Focus
 
 - Agentic SDLC
