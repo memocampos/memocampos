@@ -1,13 +1,5 @@
 # Guillermo Campos
-
-### Senior Software Development Manager • Cloud Architecture • AI Innovation • Engineering Leadership
-
-Strategic engineering leader focused on building scalable platforms, driving engineering excellence, and enabling business transformation through cloud-native architectures and Generative AI.
-
----
-
-## About Me
-
+## Strategic engineering leader focused on building scalable platforms, driving engineering excellence, and enabling business transformation through cloud-native architectures and Generative AI.
 - Cloud-native architecture & modernization
 - Engineering leadership & organizational scaling
 - AI-driven software delivery & automation
