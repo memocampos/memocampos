@@ -124,39 +124,48 @@ Focused on integrating Generative AI into engineering workflows, platform engine
 
 # Personal Projects & Innovation
 
-Exploring ideas around AI, productivity, automation, and digital experiences through independent initiatives and experimental platforms.
+Independent initiatives focused on AI experiences, automation, productivity, and digital product innovation.
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-### 🤖 Ask Robot One
-AI assistant and experimentation platform focused on conversational AI, automation, and intelligent workflows.
+<a href="https://askrobot.one/">
+  <img src="https://askrobot.one/static/images/logo-transparent.png" width="100%" alt="Ask Robot One Logo"/><br/><br/>
+  <strong>Ask Robot One</strong>
+</a>
 
-🔗 https://askrobot.one/
+AI-powered conversational platform integrating Generative AI, voice interaction, automation workflows, and multi-platform experiences across web, mobile, and Apple Watch.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🏠 Inner House
-Innovation-focused concept platform exploring digital experiences, systems thinking, and product experimentation.
+<a href="https://inner.house">
+  <img src="https://inner.house/static/images/SmallLogo.png" width="100%" alt="Inner House Logo"/><br/><br/>
+  <strong>Inner House</strong>
+</a>
 
-🔗 https://inner.house
+Experimental digital platform exploring product innovation, systems thinking, collaborative experiences, and modern web architecture concepts.
 
 </td>
 
 <td align="center" width="33%">
 
-### 📱 Scrolling Score
-Mobile application focused on interactive score tracking and user engagement experiences.
+<a href="https://apps.apple.com/mx/app/scrolling-score/id6736430610">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/12/78/7f1278bc-88d3-f833-b28d-f4df2c0ef0fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/230x0w.webp" width="90" alt="Scrolling Score Logo"/><br/><br/>
+  <strong>Scrolling Score</strong>
+</a>
 
-🔗 https://apps.apple.com/mx/app/scrolling-score/id6736430610
+Interactive mobile application focused on score tracking, lightweight UX interactions, and real-time engagement experiences for Apple platforms.
 
 </td>
+
 </tr>
 </table>
 
+---
 ---
 
 
