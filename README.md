@@ -120,52 +120,46 @@ Focused on integrating Generative AI into engineering workflows, platform engine
 ![Kafka](https://img.shields.io/badge/Apache-Kafka-black?style=for-the-badge&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+
+
 ---
 
 # Personal Projects & Innovation
 
 Independent initiatives focused on AI experiences, automation, productivity, and digital product innovation.
 
-<table>
-<tr>
+<div>
 
-<td align="center" width="33%">
+<img src="https://askrobot.one/static/images/logo-transparent.png" width="90" align="left" alt="Ask Robot One Logo"/>
 
-<a href="https://askrobot.one/">
-  <img src="https://askrobot.one/static/images/logo-transparent.png" width="100%" alt="Ask Robot One Logo"/><br/><br/>
-  <strong>Ask Robot One</strong>
-</a>
+### **[Ask Robot One](https://askrobot.one/)**
 
-AI-powered conversational platform integrating Generative AI, voice interaction, automation workflows, and multi-platform experiences across web, mobile, and Apple Watch.
+AskRobot.one is a question-and-answer platform designed to help people quickly and easily find answers to their questions. The platform is built to simplify everyday interactions by providing fast, accurate, and accessible responses across a wide range of topics.
 
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://inner.house">
-  <img src="https://inner.house/static/images/SmallLogo.png" width="100%" alt="Inner House Logo"/><br/><br/>
-  <strong>Inner House</strong>
-</a>
-
-Experimental digital platform exploring product innovation, systems thinking, collaborative experiences, and modern web architecture concepts.
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://apps.apple.com/mx/app/scrolling-score/id6736430610">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/12/78/7f1278bc-88d3-f833-b28d-f4df2c0ef0fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/230x0w.webp" width="90" alt="Scrolling Score Logo"/><br/><br/>
-  <strong>Scrolling Score</strong>
-</a>
-
-Interactive mobile application focused on score tracking, lightweight UX interactions, and real-time engagement experiences for Apple platforms.
-
-</td>
-
-</tr>
-</table>
+<br clear="left"/>
 
 ---
+
+<img src="https://inner.house/static/images/SmallLogo.png" width="90" align="left" alt="Inner House Logo"/>
+
+### **[Inner House](https://inner.house)**
+
+Use your home's floor plans to control all smart devices.
+
+<br clear="left"/>
+
+---
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/9f/cb/3c9fcb2a-1aa3-997e-4e1d-b3e3ce884702/AppIcon-0-1x_U007epad-0-1-sRGB-85-220-0.png/400x400ia-75.webp" width="90" align="left" alt="Scrolling Score Logo"/>
+
+### **[Scrolling Score](https://apps.apple.com/mx/app/scrolling-score/id6736430610)**
+
+Interactive mobile application focused on score tracking, Scrolling Scores is a real-time score-tracking application designed to keep sports fans continuously connected to live NFL game updates. 
+
+<br clear="left"/>
+
+</div>
+
 ---
 
 
